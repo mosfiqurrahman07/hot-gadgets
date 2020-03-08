@@ -1,3 +1,39 @@
 .container{
-    
+    margin-bottom: 100px;
+}
+.bg-light{
+    background-color: white !important; 
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+a:hover{
+    text-decoration: none;
+}
+.smartphone, .laptop{
+    text-align: center;
+}
+.card{
+    border:none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px lightgray;
+    padding: 20px;
+}
+.card img{
+    padding: 25px;
+}
+.categories{
+    height: 500px;
+}
+.padding-img img{
+    padding: 30px;
+}
+.shadow{
+    box-shadow: 5px 5px 45px lightgrey;
 }
